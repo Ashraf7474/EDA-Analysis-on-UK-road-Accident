@@ -19,6 +19,8 @@ Machine Learning Model Development: Build a predictive model that takes inputs s
 
 Dashboard Creation: Develop an interactive dashboard that visually represents real-time accident data, trends, and predictions, enabling stakeholders to make informed decisions and enhance road safety measures.
 
+PowerPoint Presentation: Compile the project's findings, methodologies, and dashboard visuals into a concise PowerPoint presentation. This presentation will serve as a medium to effectively communicate the project's results, insights, and potential business implications.
+
 # --DashBoard Creation--
 Here is the main dashboard which is dynamic in nature and the slicer added
 
