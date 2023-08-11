@@ -24,6 +24,8 @@ PowerPoint Presentation: Compile the project's findings, methodologies, and dash
 # --DashBoard Creation--
 Here is the main dashboard which is dynamic in nature and the slicer added
 
+![Dashboard_image](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/7c650e0c-7798-4f8b-aaad-f20a24a8f019)
+
 
 
 
