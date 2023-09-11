@@ -32,7 +32,8 @@ PowerPoint Presentation: Compile the project's findings, methodologies, and dash
 # Data Snapshots(few code snippets)
 
 ![Capture3](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/0969008c-ed6e-483b-8f03-03ee769581b5)
-![Capture4](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/278c0d9b-fd7b-4ca5-83e8-b5f03e090415)
+![Capturrre](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/3f918de1-9bde-4952-8474-850f6edd6282)
+
 
 #  Aggregation on Different KPI’s
 To check the Co-relationship between different Variables to each other. By analyzing the heatmap, we can learn about the strength and direction of these correlations, 
