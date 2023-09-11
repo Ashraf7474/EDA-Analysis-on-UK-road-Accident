@@ -31,6 +31,52 @@ PowerPoint Presentation: Compile the project's findings, methodologies, and dash
 
 # Data Snapshots(few code snippets)
 
+![Capture3](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/0969008c-ed6e-483b-8f03-03ee769581b5)
+![Capture4](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/278c0d9b-fd7b-4ca5-83e8-b5f03e090415)
+
+#  Aggregation on Different KPI’s
+To check the Co-relationship between different Variables to each other. By analyzing the heatmap, we can learn about the strength and direction of these correlations, 
+identifying which variables are highly related to each other. Heatmaps also help in identifying important features and detecting multicollinearity, 
+which can impact model performance and interpretation.
+![Capture5](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/c8e2920e-82d2-4080-abdf-b1e140666359)
+
+# Distribution of Accident Severity Levels (Percentage)
+![Capture6](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/bbc9d694-4d28-4c3c-83ba-ef74bb4b2858)
+
+# Number of accidents according to region(percentage)
+![Capture7](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/14f3b80b-e3bc-42bd-95c8-8403bd943280)
+
+# Number of accident severity according to speed limit
+![Capture8](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/70e2ca51-baf0-4005-9d97-c4a91554be69)
+
+# Number of accidents over different years
+![Capture9](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/4abefe7b-ed3d-48d7-a56c-11cd826f4696)
+
+# Number of Accident Severity by Region
+![Capture10](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/c3d4d098-8333-4d6f-bd85-24df2f25e66c)
+
+# Total Number of Casualties by Vehicle Type
+![Capture11](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/f2c2de0d-2671-43ea-b60f-e591d1a778d7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
