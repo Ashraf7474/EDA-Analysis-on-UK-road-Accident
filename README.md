@@ -58,6 +58,42 @@ which can impact model performance and interpretation.
 # Total Number of Casualties by Vehicle Type
 ![Capture11](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/f2c2de0d-2671-43ea-b60f-e591d1a778d7)
 
+# Total Number of accidents in different Junction Control
+![Capture12](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/4a9cb62c-6de6-4efa-a723-1752201281f5)
+
+# Top 10 Total Number of accidents in different police Force Control
+![Capture13](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/d435c549-52b4-4e4a-8fb9-372cae9fc8ff)
+
+# DashBoard Creation
+Here is the main dashboard which is dynamic in nature and the slicer added
+
+![Dashboard_image](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/7c650e0c-7798-4f8b-aaad-f20a24a8f019)
+
+# Insights
+The number of Slight  cases  is very high approx. 85.5%  and Fatal approx. 1.3%
+
+Most number Fatal, serious, and slight cases happen when the speed limit is 30 and 60 KMPH
+
+Urban Areas is a greater Count of accidents as compared to rural
+
+Most of The Fatal Type of cases have happened in rural areas
+
+In the vehicle type Car has the highest accident rate in count and Number_of_Casualties it’s approx. 25K
+
+Dry-type road conditions have the highest accident rate. 21 K
+
+And Most of the accidents occur in daylight time approx. 23K
+
+The top 3 districts in the accident rate are Birmingham,Leeds, and Bradford 
+
+
+
+
+
+
+
+
+
 
 
 
