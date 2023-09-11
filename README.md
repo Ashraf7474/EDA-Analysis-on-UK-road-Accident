@@ -17,6 +17,21 @@ we aim to empower effective decision-making and reduce accidents, ultimately con
 
 ![Capture2](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/c2770c21-6055-4427-80c0-38dc359fad29)
 
+# Methodology
+
+Data Acquisition: Obtain the dataset from Kaggle, encompassing UK road accident data for the year 2022.
+
+Exploratory Data Analysis (EDA): Thoroughly analyze the dataset to uncover patterns, correlations, and insights into accident occurrences, weather conditions, vehicle types, and other relevant attributes.
+
+Machine Learning Model Development: Build a predictive model that takes inputs such as weather conditions, road type, and light conditions to forecast accident types, enhancing the ability to preemptively address potential risks.
+
+Excel Dashboard: Develop an interactive dashboard visually representing real-time accident data, trends, and predictions, enabling stakeholders to make informed decisions and enhance road safety measures.
+
+PowerPoint Presentation: Compile the project's findings, methodologies, and dashboard visuals into a concise PowerPoint presentation. This presentation will serve as a medium to effectively communicate the project's results, insights, and potential business implications.
+
+# Data Snapshots(few code snippets)
+
+
 
 
 
