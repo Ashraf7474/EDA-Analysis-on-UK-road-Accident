@@ -35,7 +35,7 @@ PowerPoint Presentation: Compile the project's findings, methodologies, and dash
 ![Capturrre](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/3f918de1-9bde-4952-8474-850f6edd6282)
 
 
-#  Aggregation on Different KPI’s
+# Exploratory Data Analysis (EDA) 
 To check the Co-relationship between different Variables to each other. By analyzing the heatmap, we can learn about the strength and direction of these correlations, 
 identifying which variables are highly related to each other. Heatmaps also help in identifying important features and detecting multicollinearity, 
 which can impact model performance and interpretation.
