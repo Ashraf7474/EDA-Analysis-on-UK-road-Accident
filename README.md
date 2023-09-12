@@ -36,6 +36,8 @@ PowerPoint Presentation: Compile the project's findings, methodologies, and dash
 # Data Cleaning and Null handling
 
 ![Capture57](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/4d7dd6e1-7a1c-4a74-b105-0f265b3f28cc)
+![Capture58](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/b5a263fc-6515-455d-839b-2b3731b71300)
+
 
 
 # Exploratory Data Analysis (EDA) 
