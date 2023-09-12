@@ -44,6 +44,7 @@ PowerPoint Presentation: Compile the project's findings, methodologies, and dash
 To check the Co-relationship between different Variables to each other. By analyzing the heatmap, we can learn about the strength and direction of these correlations, 
 identifying which variables are highly related to each other. Heatmaps also help in identifying important features and detecting multicollinearity, 
 which can impact model performance and interpretation.
+
 ![Capture5](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/c8e2920e-82d2-4080-abdf-b1e140666359)
 
 # Distribution of Accident Severity Levels (Percentage)
