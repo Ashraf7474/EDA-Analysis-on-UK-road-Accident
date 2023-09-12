@@ -32,6 +32,8 @@ PowerPoint Presentation: Compile the project's findings, methodologies, and dash
 # Data Snapshots(few code snippets)
 
 ![Capture3](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/0969008c-ed6e-483b-8f03-03ee769581b5)
+
+# Machine Learning Model
 ![Capturrre](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/3f918de1-9bde-4952-8474-850f6edd6282)
 
 
