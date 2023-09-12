@@ -33,8 +33,9 @@ PowerPoint Presentation: Compile the project's findings, methodologies, and dash
 
 ![Capture3](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/0969008c-ed6e-483b-8f03-03ee769581b5)
 
-# Machine Learning Model
-![Capturrre](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/3f918de1-9bde-4952-8474-850f6edd6282)
+# Data Cleaning and Null handling
+
+![Capture57](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/4d7dd6e1-7a1c-4a74-b105-0f265b3f28cc)
 
 
 # Exploratory Data Analysis (EDA) 
@@ -66,6 +67,9 @@ which can impact model performance and interpretation.
 
 # Top 10 Total Number of accidents in different police Force Control
 ![Capture13](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/d435c549-52b4-4e4a-8fb9-372cae9fc8ff)
+
+# Machine Learning Model
+![Capturrre](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/3f918de1-9bde-4952-8474-850f6edd6282)
 
 # DashBoard Creation
 Here is the main dashboard which is dynamic in nature and the slicer added
