@@ -34,17 +34,7 @@ PowerPoint Presentation: Compile the project's findings, methodologies, and dash
 
 ![Capture2](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/c2770c21-6055-4427-80c0-38dc359fad29)
 
-# Methodology
 
-Data Acquisition: Obtain the dataset from Kaggle, encompassing UK road accident data for the year 2022.
-
-Exploratory Data Analysis (EDA): Thoroughly analyze the dataset to uncover patterns, correlations, and insights into accident occurrences, weather conditions, vehicle types, and other relevant attributes.
-
-Machine Learning Model Development: Build a predictive model that takes inputs such as weather conditions, road type, and light conditions to forecast accident types, enhancing the ability to preemptively address potential risks.
-
-Excel Dashboard: Develop an interactive dashboard visually representing real-time accident data, trends, and predictions, enabling stakeholders to make informed decisions and enhance road safety measures.
-
-PowerPoint Presentation: Compile the project's findings, methodologies, and dashboard visuals into a concise PowerPoint presentation. This presentation will serve as a medium to effectively communicate the project's results, insights, and potential business implications.
 
 # Data Snapshots(few code snippets)
 
@@ -112,6 +102,14 @@ Dry-type road conditions have the highest accident rate. 21 K
 And Most of the accidents occur in daylight time approx. 23K
 
 The top 3 districts in the accident rate are Birmingham,Leeds, and Bradford 
+
+# Challenges Faced
+
+During the execution of our UK road safety project, we encountered several significant challenges. First and foremost, the data acquisition process involved handling a large and complex dataset, requiring careful data cleaning and preprocessing to ensure accuracy in our analysis.
+
+The Exploratory Data Analysis (EDA) phase brought challenges related to identifying meaningful patterns and correlations within the accident data, especially considering the multitude of factors involved in road accidents. Additionally, during the development of the Machine Learning model, we faced the challenge of selecting the most relevant features and optimizing model performance to accurately predict accident types.
+
+Creating the interactive Excel dashboard demanded a strong understanding of data visualization techniques and Excel functionality to present real-time data effectively. Lastly, synthesizing our findings and insights into a concise PowerPoint presentation required effective communication skills to convey the project's value and potential impact on road safety measures. These challenges were met with dedication, expertise, and teamwork, ultimately contributing to the success of our project.
 
 
 
