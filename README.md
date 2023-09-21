@@ -8,7 +8,7 @@
 
 Introducing our holistic project focused on UK road safety: through Exploratory Data Analysis, we unveil accident trends; our predictive Machine Learning model enhances prevention strategies, and an interactive dashboard using Excel that empowers real-time data-driven decisions. By merging insights, predictions, and visualization, we aspire to elevate road safety and contribute to a safer, informed society.
 
-# --Problem aimed to solve--
+# --Problem aimed to solve-- 
 
 Our project tackles the challenge of improving UK road safety. By analyzing accident data, creating a predictive model, and offering real-time insights through a dashboard, we aim to empower effective decision-making and reduce accidents, ultimately contributing to a safer road environment.
 
